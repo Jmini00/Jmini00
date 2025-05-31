@@ -4,18 +4,31 @@
 ---
 
 <div>
-  <p>Passionné par le développement web, je consacre mon temps libre à me perfectionner
-				et développer mes compétences.</p>
-				<br>Actuellement, je suis à la recherche d'une opportunité au sein d'une entreprise qui me permettra
-				d'approfondir et d'élargir mes compétences.
-	
+  <p> Passionné par le développement web, je consacre mon temps libre à me perfectionner
+				et développer mes compétences. </p>
+				
+<p> Actuellement, je suis à la recherche d'une opportunité au sein d'une entreprise qui me permettra
+				d'approfondir et d'élargir mes compétences. </p>
+    
+<p> Mon objectif est d'acquérir une expérience professionnelle
+				enrichissante qui me permettra de progresser et de contribuer de manière significative dans le domaine du
+				développement web. </p>
+    
+<p>Curieux et désireux d'apprendre, je continue sans cesse de me former, de pratiquer
+				et d'en apprendre tous les jours via des cours en ligne et la réalisation de divers projets personnels.
+				<br>Je cherche un nouveau challenge et suis motivé à mettre en pratique mes connaissances et à apprendre au
+				contact d'une équipe ! </p>   
+    
+ <br>
+ 
 <p>Diplômé au titre RNCP 37273 Développeur Web Full-Stack, j’ai un grand intérêt et une vraie curiosité d’apprentissage dans ce domaine que je trouve passionnant ; 
 ce qui m’a amené à me plonger dans le développement en tant qu’autodidacte avant de débuter ma formation, et encore actuellement grâce à des cours en ligne et la réalisations de divers projets personnels 
 afin d’approfondir mes connaissances et développer mes compétences.</p>	
-<br>
-J’ai débuté une formation de Développeur Web/Web Mobile chez WebForce3 en octobre 2023 et effectué la quasi intégralité du cursus; 
+
+<p> J’ai débuté une formation de Développeur Web/Web Mobile chez WebForce3 en octobre 2023 et effectué la quasi intégralité du cursus; 
 la fermeture de l’établissement 2 semaines avant la fin du cursus en janvier 2024 m’a poussé à intégrer la 3WAcademy 
-pour terminer ma formation et ainsi passer ma certification et obtenir mon diplôme.
+pour terminer ma formation et ainsi passer ma certification et obtenir mon diplôme. </p>
+
   </div>
   
 ---
@@ -48,7 +61,8 @@ pour terminer ma formation et ainsi passer ma certification et obtenir mon dipl�
   <img align="center" alt="MySQL" title="MySQL" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Json" title="Json" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">
   <img align="center" alt="Composer" title="Composer" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
-  <img align="center" alt="Doctrine" title="Doctrine" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-plain-wordmark.svg">
+  <img align="center" alt="Doctrine" title="Doctrine" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-plain-wordmark.svg"> 
+  <img align="center" alt="NPM" title="NPM" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
   <img align="center" alt="Postman" title="Postman" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 
 <br>
