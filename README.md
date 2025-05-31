@@ -8,6 +8,7 @@
 				et développer mes compétences.
 				<br>Actuellement, je suis à la recherche d'une opportunité au sein d'une entreprise qui me permettra
 				d'approfondir et d'élargir mes compétences.
+	
 Diplômé au titre RNCP 37273 Développeur Web Full-Stack, j’ai un grand intérêt et une vraie curiosité d’apprentissage dans ce domaine que je trouve passionnant ; 
 ce qui m’a amené à me plonger dans le développement en tant qu’autodidacte avant de débuter ma formation, et encore actuellement grâce à des cours en ligne et la réalisations de divers projets personnels 
 afin d’approfondir mes connaissances et développer mes compétences.<br>
